@@ -2,7 +2,7 @@
 This is a smart farming project for my final university project. The idea of the project is to make automated fertilizer delivery system for hydroponic plant. Lettuce is used as subject in this project.
 # Algorithm
 The system works as following diagram.
-<img width="669" height="554" alt="algoritma 3 ttu_revisi_Eng" src="https://github.com/user-attachments/assets/60a8a4ba-1382-44a8-a093-de528b255cf0" /><br/>
+<img width="669" height="554" alt="algoritma 3 ttu_revisi_Eng (1)" src="https://github.com/user-attachments/assets/77efc6ce-b062-4547-9e3e-8a74e0535ac6" /><br/>
 There are 3 states that applies to this system:
 ### Plant's Age Calculation
 The calculation is conducted to define the required concentartion of plant's nutrition.
