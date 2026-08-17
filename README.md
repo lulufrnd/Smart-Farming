@@ -7,7 +7,7 @@ There are 3 states that applies to this system:
 ### Plant's Age Calculation
 The calculation is conducted to define the required concentartion of plant's nutrition.
 ### Required Nutrition's Volume and Pump's Operating Time Calculation
-Based on the age calculation, the system is able to calculate the required volume of A and B nutrition. The operating time of A and B pump also calculated in this state. Dilution method is used for the calculation. The equation is shown below:
+Based on the age calculation, the system is able to calculate the required volume of A and B nutrition. The operating time of A and B pump also calculated in this state. Dilution method is used for the calculation. The equation is shown below:<br/>
 <img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/e49467a7-caf7-481c-ab6c-694be96b48c5" /><br/>
 Where:
 * V1      = Requiered A or B volume
